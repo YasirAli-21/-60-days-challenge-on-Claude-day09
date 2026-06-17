@@ -116,7 +116,46 @@ The same question produced significantly different answers when different person
 
 ## Biggest Insight
 A detailed prompt can help AI build a complete interactive application, not just answer questions.
+
+# Day 9 - NutriScope
+
+## What I Did
+Built and enhanced an AI-powered nutrition analytics application.
+
+## Key Learnings
+- AI can accelerate web app development.
+- Product improvement happens through iteration.
+- Better features lead to better user experience.
+
+## Biggest Insight
+Great products evolve through continuous improvement and user-focused enhancements.
+
+# Day 10 - Personal Portfolio Website
+
+## What I Did
+Created a modern portfolio website showcasing skills, projects, and achievements.
+
+## Key Learnings
+- Personal branding is important for career growth.
+- A portfolio acts as a digital identity.
+- AI can speed up website development.
+
+## Biggest Insight
+Building skills is important, but showcasing them professionally creates opportunities.
 ### Current Challenge Status
+
+# Day 11 - ATS Resume Optimizer
+
+## What I Did
+Analyzed and optimized a resume based on an AI Engineer Intern job description.
+
+## Key Learnings
+- ATS systems rely on keywords and structure.
+- Resumes should be tailored for specific roles.
+- Small improvements can increase ATS visibility.
+
+## Biggest Insight
+A targeted resume performs better than a generic resume when applying for jobs.
 
 ✅ Day 1 Completed  
 ✅ Day 2 Completed  
@@ -126,6 +165,9 @@ A detailed prompt can help AI build a complete interactive application, not just
 ✅ Day 6 Completed  
 ✅ Day 7 Completed  
    ✅ Day 8 Completed
+   ✅ Day 9 Completed
+   ✅ Day 10 Completed
+   ✅ Day 11 Completed
 
 ## 🌱 Future Focus
 
